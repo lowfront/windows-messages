@@ -1,0 +1,17 @@
+{
+  "name": "windows-messages",
+  "version": "1.0.0",
+  "description": "It is a collection of windows messages constants for hybrid apps such as Electron and NW.js or Windows programs through Node.js C/C++ addon.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}

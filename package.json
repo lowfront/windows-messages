@@ -1,6 +1,6 @@
 {
   "name": "windows-messages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is a collection of windows messages constants for hybrid apps such as Electron and NW.js or Windows programs through Node.js C/C++ addon.",
   "main": "dist/index.js",
   "scripts": {

@@ -1,17 +1,24 @@
 {
   "name": "windows-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a collection of windows messages constants for hybrid apps such as Electron and NW.js or Windows programs through Node.js C/C++ addon.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["wm", "windows-messages", "windows", "constants"],
+  "author": {
+    "name": "lowfront",
+    "email": "fronterior@hotmail.com"
+  },
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.4.3"
+  },
+  "homepage": "https://github.com/lowfront/windows-messages",
+  "bugs": {
+    "url": "https://github.com/lowfront/windows-messages/issues"
   }
 }
